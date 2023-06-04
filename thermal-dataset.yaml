@@ -7,4 +7,4 @@ kpt_shape: [17, 3]
 names:
   0: person
 
-download: https://objectstorage.eu-frankfurt-1.oraclecloud.com/n/wedoinfra/b/emailTemplates/o/thermal-dataset.zip
+download: https://github.com/carlgira/pose-estimation-thermal-images-yolov8/raw/main/thermal-dataset.zip
