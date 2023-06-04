@@ -1,7 +1,6 @@
 # Pose Estimation of thermal images using yolov8
 
 
-
 ## Configuration
 
 ```bash
@@ -10,3 +9,9 @@ source .venv/bin/activate
 pip install -r requirements.txt 
 ```
 
+## Run 
+
+```bash
+source .venv/bin/activate
+jupyter-lab 
+```
